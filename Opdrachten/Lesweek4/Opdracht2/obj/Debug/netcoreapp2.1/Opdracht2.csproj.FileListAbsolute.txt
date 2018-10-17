@@ -1,0 +1,11 @@
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/bin/Debug/netcoreapp2.1/Opdracht2.deps.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/bin/Debug/netcoreapp2.1/Opdracht2.runtimeconfig.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/bin/Debug/netcoreapp2.1/Opdracht2.runtimeconfig.dev.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/bin/Debug/netcoreapp2.1/Opdracht2.dll
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/bin/Debug/netcoreapp2.1/Opdracht2.pdb
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/obj/Debug/netcoreapp2.1/Opdracht2.csprojAssemblyReference.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/obj/Debug/netcoreapp2.1/Opdracht2.csproj.CoreCompileInputs.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/obj/Debug/netcoreapp2.1/Opdracht2.AssemblyInfoInputs.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/obj/Debug/netcoreapp2.1/Opdracht2.AssemblyInfo.cs
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/obj/Debug/netcoreapp2.1/Opdracht2.dll
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/obj/Debug/netcoreapp2.1/Opdracht2.pdb
