@@ -13,7 +13,15 @@ namespace Opdracht2
                     Console.WriteLine(x+" maal "+y+" is gelijk aan "+ x*y);   
                 }
             }
-            
+            int start = 0;
+            if(start ==0){
+                do{
+                    start++;
+                }while(start<10);
+                Console.WriteLine(start+ " Dit is de waarde van de start variabele");
+            }else{
+                Console.WriteLine(" De start waarde moet 0 zijn om te beginnen uw start waarde is "+ start);
+            }
         }
     }
 }
