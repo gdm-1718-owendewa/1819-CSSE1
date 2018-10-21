@@ -13,15 +13,35 @@ namespace Opdracht2
                     Console.WriteLine(x+" maal "+y+" is gelijk aan "+ x*y);   
                 }
             }
-            int start = 0;
-            if(start ==0){
-                do{
-                    start++;
-                }while(start<10);
-                Console.WriteLine(start+ " Dit is de waarde van de start variabele");
-            }else{
-                Console.WriteLine(" De start waarde moet 0 zijn om te beginnen uw start waarde is "+ start);
+            for(int i=0; i<10; i++){
+            Console.WriteLine(Fo(i));
+             }
+            
+            //fac van een nummer//
+            int a, number, fac;
+            Console.WriteLine("enter your number");
+            number = int.Parse(Console.ReadLine());
+            fac = number;
+            for(a=number-1; a >=1; a--){
+                fac = fac * a;
             }
+            Console.WriteLine("Factoriaal van ingevoerd nummer is "+ fac);
+            Console.ReadLine();
+             
         }
+        
+        static int Fo(int number){
+            int eerste = 0;
+            int tweede = 1;
+            int volgende = 1;
+
+            for(int i=2; i<=number; i++){
+                volgende = eerste + tweede;
+                eerste = tweede;
+                tweede = volgende;
+            }
+            return volgende;
+        }
+         
     }
 }
