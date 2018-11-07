@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Opdracht2/1.0.0": {
+      "Lesweek6/1.0.0": {
         "runtime": {
-          "Opdracht2.dll": {}
+          "Lesweek6.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Opdracht2/1.0.0": {
+    "Lesweek6/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

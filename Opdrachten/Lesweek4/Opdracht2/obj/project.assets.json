@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/Opdracht2.csproj",
-      "projectName": "Opdracht2",
-      "projectPath": "/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/Opdracht2.csproj",
+      "projectUniqueName": "/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/Lesweek6.csproj",
+      "projectName": "Lesweek6",
+      "projectPath": "/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/Lesweek6.csproj",
       "packagesPath": "/Users/owendewaele/.nuget/packages/",
-      "outputPath": "/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek4/Opdracht2/obj/",
+      "outputPath": "/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,33 +1,36 @@
 ﻿using System;
 
-namespace Opdracht2
+namespace Lesweek6
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            int grondgetal = 41;
-            int vermeningvuldigingsFactor = 21;
-            for(int x = 0; x< grondgetal; x++){
-                for(int y = 0; y<vermeningvuldigingsFactor; y++){
-                    Console.WriteLine(x+" maal "+y+" is gelijk aan "+ x*y);   
-                }
+            Tables();
+            Console.WriteLine("geef een specifiek tafelnummer in");
+            int generatedNumber = int.Parse(Console.ReadLine());
+            vermeningVuldigingsFactor(generatedNumber); 
+            Facutatief(5);
+            for(int i=0; i<20; i++){
+            Console.WriteLine(Fibonacci(i));
             }
-           for(int i=0; i<20; i++){
-            Console.WriteLine(Fo(i));
-             }
-            
-            //fac van een nummer//
-            Fac();             
-
-              
-           
         }
-        static void Fac(){
-              int a, number, fac;
-            Console.WriteLine("enter your number");
+        static void Tables(){
+            
+            Console.WriteLine("Geef het gewenste tafelnummer in");
+            int grondgetal = int.Parse(Console.ReadLine());
+            for(int x = 0; x< grondgetal; x++){
+                vermeningVuldigingsFactor(x);
+            }
+        }
+        static void vermeningVuldigingsFactor(int x){
+             for(int y = 0; y<10; y++){
+                     Console.WriteLine(x+" maal "+y+" is gelijk aan "+ x*y);   
+                }
+        }
+         static void Facutatief(int fac){ 
+             int a, number;
+            Console.WriteLine("Geef uw facutatief te berekenen nummer in");
             number = int.Parse(Console.ReadLine());
             fac = number;
                 for(a=number-1; a >=1; a--){
@@ -36,7 +39,7 @@ namespace Opdracht2
             Console.WriteLine("Factoriaal van ingevoerd nummer is "+ fac);
             Console.ReadLine();
         }
-        static int Fo(int number){
+         static int Fibonacci(int number){
             int eerste = 0;
             int tweede = 1;
             int volgende = 1;
@@ -48,6 +51,5 @@ namespace Opdracht2
             }
             return volgende;
         }
-         
     }
 }

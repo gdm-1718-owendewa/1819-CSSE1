@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Opdracht2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Lesweek6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Opdracht2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Opdracht2")]
+[assembly: System.Reflection.AssemblyProductAttribute("Lesweek6")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Lesweek6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

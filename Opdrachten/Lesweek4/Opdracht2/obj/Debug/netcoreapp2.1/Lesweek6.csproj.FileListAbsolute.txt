@@ -1,0 +1,11 @@
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/bin/Debug/netcoreapp2.1/Lesweek6.deps.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/bin/Debug/netcoreapp2.1/Lesweek6.runtimeconfig.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/bin/Debug/netcoreapp2.1/Lesweek6.runtimeconfig.dev.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/bin/Debug/netcoreapp2.1/Lesweek6.dll
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/bin/Debug/netcoreapp2.1/Lesweek6.pdb
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/obj/Debug/netcoreapp2.1/Lesweek6.csprojAssemblyReference.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/obj/Debug/netcoreapp2.1/Lesweek6.csproj.CoreCompileInputs.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/obj/Debug/netcoreapp2.1/Lesweek6.AssemblyInfoInputs.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/obj/Debug/netcoreapp2.1/Lesweek6.AssemblyInfo.cs
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/obj/Debug/netcoreapp2.1/Lesweek6.dll
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek6/obj/Debug/netcoreapp2.1/Lesweek6.pdb
