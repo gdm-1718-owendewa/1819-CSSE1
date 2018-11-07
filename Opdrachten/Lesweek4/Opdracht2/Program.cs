@@ -7,11 +7,13 @@ namespace Lesweek6
         static void Main(string[] args)
         {
             Tables();
-            Console.WriteLine("geef een specifiek tafelnummer in");
+            Console.WriteLine("geef de gewenste tafel in");
             int generatedNumber = int.Parse(Console.ReadLine());
             vermeningVuldigingsFactor(generatedNumber); 
             Facutatief(5);
-            for(int i=0; i<20; i++){
+            Console.WriteLine("geef een nummer in voor Fibonacci");
+            int fibonacciNumber = int.Parse(Console.ReadLine());
+            for(int i=0; i<fibonacciNumber; i++){
             Console.WriteLine(Fibonacci(i));
             }
         }
