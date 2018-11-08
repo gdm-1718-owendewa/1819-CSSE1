@@ -1,9 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Lesweek6
 {
-    using System;
-    using System.Collections.Generic;
     
     class Program
     {
@@ -15,7 +14,6 @@ namespace Lesweek6
                 List();
                 Item();
                 ListTwo();
-
         }
         static void List(){
 
@@ -49,7 +47,7 @@ namespace Lesweek6
                 int item = int.Parse(Console.ReadLine());
                 Console.WriteLine("Nummer: "+array[item-1,0]+" Item: "+array[item-1,1]+" Kostprijs: "+array[item-1,2] );
         }
-         static void ListTwo(){
+        static void ListTwo(){
              add();
                   
         }  
