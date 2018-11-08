@@ -8,6 +8,10 @@ namespace Lesweek6
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("vraag 1a) Een tuple list");
+            Console.WriteLine("vraag 1b) interpretaties zijn gemaakt");
+            Console.WriteLine("vraag 2a) Een string list waardoor dat de klant zijn order kan ingeven deze ieder keer word doorgestuurd en dat de verkoper/producent ieder keer de laatste kan opvragen");
+            Console.WriteLine("vraag 2b) collectie en tonen is gedaan verwijderen is nog niet 100%");
              Menu();  
         }
         static void Menu(){
@@ -48,8 +52,8 @@ namespace Lesweek6
                 Console.WriteLine("Nummer: "+array[item-1,0]+" Item: "+array[item-1,1]+" Kostprijs: "+array[item-1,2] );
         }
         static void ListTwo(){
-             add();
-                  
+            add();
+            
         }  
         static void add(){ 
             Console.WriteLine("geef uw getrokken nummer");
