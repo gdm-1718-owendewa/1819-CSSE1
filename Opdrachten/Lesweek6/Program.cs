@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
 namespace Lesweek6
 {
     
@@ -17,7 +18,7 @@ namespace Lesweek6
         static void Menu(){
                 List();
                 Item();
-                ListTwo();
+                add();
         }
         static void List(){
 
@@ -51,10 +52,7 @@ namespace Lesweek6
                 int item = int.Parse(Console.ReadLine());
                 Console.WriteLine("Nummer: "+array[item-1,0]+" Item: "+array[item-1,1]+" Kostprijs: "+array[item-1,2] );
         }
-        static void ListTwo(){
-            add();
-            
-        }  
+         
         static void add(){ 
             Console.WriteLine("geef uw getrokken nummer");
             int nummer = int.Parse(Console.ReadLine());  
@@ -62,9 +60,14 @@ namespace Lesweek6
             string boodschap = Console.ReadLine();
 
             List<string> order = new List<string>();
+            write(order ,nummer,boodschap);
+            
+        }
+        static void write(List<string> order,int nummer, string boodschap){
             order.Add(nummer+" "+boodschap);
 
             foreach(var item in order){
+                
                 Console.WriteLine(item);
             }
         }
