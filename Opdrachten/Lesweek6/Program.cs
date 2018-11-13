@@ -19,6 +19,7 @@ namespace Lesweek6
                 List();
                 Item();
                 add();
+                
         }
         static void List(){
 
@@ -70,6 +71,16 @@ namespace Lesweek6
                 
                 Console.WriteLine(item);
             }
+            Console.WriteLine("Geef een item in dat uw wilt verwijderen geef anders neen in");
+                int Deletenummer = int.Parse(Console.ReadLine()); 
+                if(Deletenummer is int){ 
+                order.RemoveAt(Deletenummer);
+                Console.WriteLine("item "+ Deletenummer+" verwijderd");
+                }
+                else
+                {
+                    Console.WriteLine("Geen item verwijderd");
+                }
         }
 }
 }
