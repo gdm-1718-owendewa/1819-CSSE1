@@ -18,3 +18,13 @@ Geef 5 back end frameworks
 3. Flask
 4. Laravel
 5. Pyramid
+
+Populairste frameworks
+1. Angular
+2. Ruby on Rails
+3. YII
+4. Meteor JS
+5. Express.js
+6. Zend
+7. Django
+8. Laravel
