@@ -68,7 +68,6 @@ namespace Lesweek6
             order.Add(nummer+" "+boodschap);
 
             foreach(var item in order){
-                
                 Console.WriteLine(item);
             }
             Console.WriteLine("Geef een item in dat uw wilt verwijderen geef anders neen in");

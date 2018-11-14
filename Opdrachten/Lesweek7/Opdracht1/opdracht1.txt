@@ -1,0 +1,20 @@
+Wat is het erschil tussen front end frameworks en back end?
+
+Front end is alles wat de user kan zien gebeuren op uw website zoals html css en javascript.
+Back end zijn de processen die op de achter grond gebeuren.
+
+Geef 5 front end frameworks
+
+1. Bootstrap
+2. Foundation
+3. Materialize
+4. Material UI
+5. Pure
+
+Geef 5 back end frameworks
+
+1. Django
+2. Ruby on rails
+3. Flask
+4. Laravel
+5. Pyramid
