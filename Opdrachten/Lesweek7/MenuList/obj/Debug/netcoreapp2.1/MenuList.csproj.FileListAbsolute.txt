@@ -1,0 +1,11 @@
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/bin/Debug/netcoreapp2.1/MenuList.deps.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/bin/Debug/netcoreapp2.1/MenuList.runtimeconfig.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/bin/Debug/netcoreapp2.1/MenuList.runtimeconfig.dev.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/bin/Debug/netcoreapp2.1/MenuList.dll
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/bin/Debug/netcoreapp2.1/MenuList.pdb
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/obj/Debug/netcoreapp2.1/MenuList.csprojAssemblyReference.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/obj/Debug/netcoreapp2.1/MenuList.csproj.CoreCompileInputs.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/obj/Debug/netcoreapp2.1/MenuList.AssemblyInfoInputs.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/obj/Debug/netcoreapp2.1/MenuList.AssemblyInfo.cs
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/obj/Debug/netcoreapp2.1/MenuList.dll
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/Lesweek7/MenuList/obj/Debug/netcoreapp2.1/MenuList.pdb

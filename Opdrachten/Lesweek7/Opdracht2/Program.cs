@@ -13,10 +13,12 @@ namespace Opdracht2
             Console.WriteLine(voertuig1.ToString());
 
             Voertuig voertuig2 = new Voertuig(30, "rood");
-            voertuig2.ToString();
+            Console.WriteLine(voertuig2.ToString());
 
             Auto auto1 = new Auto();
             Console.WriteLine(auto1.ToString());
+
+           
         }
 
     }
