@@ -5,7 +5,7 @@ namespace MenuList
     class Valuta:Menuitem
     {
        
-          public Valuta(double productWaarde){
+        public Valuta(double productWaarde){
         //Laadvermogen = laadvermogen;
         ProductWaarde = productWaarde;
        

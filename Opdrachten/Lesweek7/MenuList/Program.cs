@@ -3,10 +3,9 @@ using System.Collections.Generic;
 
 namespace MenuList
 {
-    
     class Program
     {
-        static void Main(string[] args)
+      static void Main(string[] args)
         {
             //Basis classe is Menuitem, Product en Valuta zijn subclasses
             // Voor de order op mijn list zou ik Linq voor gebruiken met OrderBy
@@ -33,7 +32,7 @@ namespace MenuList
             Valuta valutaProduct3 = new Valuta(5.0);
             Menuitem menuitem3 = new Menuitem(Product3.productToString(),valutaProduct3.valutaToString());
 
-             Product Product4 = new Product();
+            Product Product4 = new Product();
             Product4.ProductName = "Visschotel";
             Product4.ProductType = "Eten";
             Product4.ProductIngrdiënten ="Vis van de dag, zalm, kabeljouw, baars, inktvis";
