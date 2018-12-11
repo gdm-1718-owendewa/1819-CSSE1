@@ -1,0 +1,11 @@
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/bin/Debug/netcoreapp2.1/singleton.deps.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/bin/Debug/netcoreapp2.1/singleton.runtimeconfig.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/bin/Debug/netcoreapp2.1/singleton.runtimeconfig.dev.json
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/bin/Debug/netcoreapp2.1/singleton.dll
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/bin/Debug/netcoreapp2.1/singleton.pdb
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/obj/Debug/netcoreapp2.1/singleton.csprojAssemblyReference.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/obj/Debug/netcoreapp2.1/singleton.csproj.CoreCompileInputs.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/obj/Debug/netcoreapp2.1/singleton.AssemblyInfoInputs.cache
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/obj/Debug/netcoreapp2.1/singleton.AssemblyInfo.cs
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/obj/Debug/netcoreapp2.1/singleton.dll
+/Users/owendewaele/Documents/GitHub/gdmgent-1819-CSSE1/Opdrachten/lesweek 11/singleton/obj/Debug/netcoreapp2.1/singleton.pdb
