@@ -1,0 +1,48 @@
+- Wat is een databank?
+    Een database, gegevensbank of databank is een digitaal opgeslagen gegevensverzameling, ingericht met het oog op flexibele raadpleging en gebruik. Databases spelen een belangrijke rol voor het archiveren en actueel houden van gegevens bij onder meer de overheid, financiële instellingen en bedrijven, in de wetenschap, en worden op kleinere schaal ook privé gebruikt.
+
+- Welke databanken zijn er?
+    Big data‎ 
+    Blockchains‎ 
+    Creative Commons-licensed databases‎ 
+    Document-oriented databases‎ 
+    Full text databases‎
+    Graph databases‎ 
+    Knowledge bases‎ 
+    Online databases‎
+    Public domain databases‎ 
+    Real-time databases‎
+    Spatial databases‎
+    Temporal databases‎
+    Tz database‎
+    XML databases‎
+
+- Wat zijn de verschillen?
+    Big data -> word gebruikt bij grote en belangrijke velden van studie/ grote informatie bedrijven etc
+
+    Blockchains‎ -> Dit word gebruikt bij cryptocurrencies
+
+    Creative Commons-licensed databases‎ -> dit type word gebruikt zodat er meerdere contributers van over de hele wereld kunnen meewerken
+
+    Document-oriented databases‎ -> Dit is voor het opslaan, ophalen en managing van document georiënteerde info
+    
+    Full text databases‎ -> Dit word bijvoorbeeld gebruik om complete boekteksten in op te slaan
+    
+    Graph databases‎ -> deze database maakt gebruik van grafiestructuren voor semantische query's met knooppunten, randen en eigenschappen om gegevens te vertegenwoordigen en op te slaan
+    
+    Knowledge bases‎ -> Word gebruikt om complexe gestructureerde en niet-gestructureerde data op te slaan
+    
+    Online databases‎ -> Dit is een database die aanspreekbaar is van een lokaal netwerk
+    
+    Public domain databases‎ -> free to use databases
+    
+    Real-time databases‎ -> een database die zich direct aanpast aan de data die word toegevoegd dit kan je ook meevolgen in een apart browser scherm een voorbeeld is Firebase
+    
+    Spatial databases‎ -> Een ruimtelijke database is een database die is geoptimaliseerd voor het opslaan en opvragen van gegevens die zijn gedefinieerd in een geometrische ruimte.
+    
+    Temporal databases‎ -> Een temporele database slaat gegevens op met betrekking tot tijdsinstanties. Het biedt informatie over verleden, heden en toekomst
+    
+    Tz database‎ -> De tz-database is een samenwerkende compilatie van informatie over de tijdzones in de wereld, voornamelijk bedoeld voor gebruik met computerprogramma's en besturingssystemen.
+    
+    XML database ->    Een XML-database is een data-persistentiesoftware waarmee gegevens kunnen worden opgegeven en soms opgeslagen in XML-indeling
+    
