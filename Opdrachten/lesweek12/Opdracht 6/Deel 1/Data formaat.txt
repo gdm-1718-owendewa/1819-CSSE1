@@ -5,6 +5,13 @@
 - Welke dataformaten zijn er?
     (meest gebruikte)
 
+    Exchanging data 
+        .JSON JavaScript Object Notation, is a standardized data format. JSON uses human-readable text in the form of data objects that consist of one or more attributes with corresponding values. It is used for data exchange between server and web application, as an alternative to XML.
+
+        .CSV A comma-separated file, or CSV file, in English comma-separated values, is a specification for table files. The term should not be taken too literally, because variants, such as a semicolon as a separator, are also called so.
+
+        .XML Extensible Markup Language Extensible Markup Language A graphical description of a simple XML document A graphical description of a simple XML document Status Published Starting year 1996 Authors W3C Basic SGML standards Related standards numerous among others: XHTML, RSS, Atom, KML ... Abbreviation XML Domain Worldwide web Website XML at W3C Portaal Portaalicoon Informatica Extensible Markup Language (XML) is a standard of the World Wide Web Consortium for the syntax of formal markup languages ​​with which you can display structured data in the form of plain text. This presentation is both machine-readable and readable for humans. The XML format is used to store data (as in the OpenDocument format) and to send data over the internet.
+
     Audio file formats by file extensions
         .aif - AIF audio file
         .cda - CD audio track file
@@ -29,7 +36,7 @@
 
     Disc and media file extensions
         .bin - Binary disc image
-        .dmg - macOS X disk image
+        .dmg - macOS X disk image 
         .iso - ISO disc image
         .toast - Toast disc image
         .vcd - Virtual CD
