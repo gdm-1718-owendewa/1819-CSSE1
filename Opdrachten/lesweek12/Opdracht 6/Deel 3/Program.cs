@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 
 namespace Deel_3
 {
@@ -11,8 +14,6 @@ namespace Deel_3
             Vorm obj = CreateVorm.getobject(type);
             Console.WriteLine(obj.Teken());
             Console.ReadLine();
-            
-
         }
     }
     public class CreateVorm{
@@ -39,6 +40,7 @@ namespace Deel_3
     class Cirkel: Vorm{
         public virtual string Teken(){
             return "Dit is een cirkel";
+            
         }
     }
     class Vierkant: Vorm{
